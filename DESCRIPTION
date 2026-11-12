@@ -3,7 +3,7 @@ Type: Package
 Title: Client for the 'SMS Gora' SMS Gateway
 Version: 1.0.0
 Authors@R: c(
-    person("Joseph", role = c("aut", "cre"), email = "niyogushimwaj967@gmail.com"),
+    person("Joseph", "Niyogushimwa", role = c("aut", "cre"), email = "niyogushimwaj967@gmail.com"),
     person("Tekservix", role = c("cph", "fnd"))
   )
 Description: Client for the 'SMS Gora' SMS Gateway <https://tekservix.com/smsgora>,
