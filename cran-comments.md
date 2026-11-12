@@ -1,6 +1,6 @@
 ## Submission
 
-Resubmission of a new package. Changes: fixed a redirecting URL (added the trailing slash) and reworded DESCRIPTION to avoid the word "webhook".
+Resubmission of a new package as 1.0.1 (1.0.0 is already on the incoming server). Changes: fixed a redirecting URL (added the trailing slash) and reworded DESCRIPTION.
 
 ## Test environments
 
