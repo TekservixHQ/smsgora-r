@@ -6,10 +6,10 @@ Authors@R: c(
     person("Joseph", "Niyogushimwa", role = c("aut", "cre"), email = "niyogushimwaj967@gmail.com"),
     person("Tekservix", role = c("cph", "fnd"))
   )
-Description: Client for the 'SMS Gora' SMS Gateway <https://tekservix.com/smsgora>,
+Description: Client for the 'SMS Gora' SMS Gateway <https://tekservix.com/smsgora/>,
     which sends and receives SMS through your own 'Android' phones and SIM cards.
     Send single, scheduled and bulk messages, check delivery status, read received
-    SMS, manage linked phones and webhooks, and verify signed webhook deliveries.
+    SMS, manage linked phones and event notifications, and verify their signatures.
     A 'Tekservix' account with 'SMS Gora' and an API key are required.
 License: MIT + file LICENSE
 URL: https://tekservix.com/smsgora/docs/, https://github.com/TekservixHQ/smsgora-r

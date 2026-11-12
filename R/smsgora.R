@@ -3,7 +3,7 @@
 #' SMS Gora SMS Gateway by Tekservix: send and receive SMS through your own
 #' Android phones and SIM cards. You need a Tekservix account with SMS Gora,
 #' at least one phone linked with the SMS Gora app, and an API key (it starts
-#' with `sgk_`). Create one at <https://tekservix.com/smsgora>. API reference:
+#' with `sgk_`). Create one at <https://tekservix.com/smsgora/>. API reference:
 #' <https://tekservix.com/smsgora/docs/>.
 #'
 #' Start with [smsgora_client()], then call the other `smsgora_*` functions.

@@ -1,6 +1,6 @@
 ## Submission
 
-This is a new release (first submission).
+Resubmission of a new package. Changes: fixed a redirecting URL (added the trailing slash) and reworded DESCRIPTION to avoid the word "webhook".
 
 ## Test environments
 
