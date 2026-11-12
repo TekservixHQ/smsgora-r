@@ -1,0 +1,21 @@
+Package: smsgora
+Type: Package
+Title: Client for the 'SMS Gora' SMS Gateway
+Version: 1.0.0
+Authors@R: person("Tekservix", role = c("aut", "cre", "cph"), email = "support@tekservix.com")
+Description: Client for the 'SMS Gora' SMS Gateway <https://tekservix.com/smsgora>,
+    which sends and receives SMS through your own 'Android' phones and SIM cards.
+    Send single, scheduled and bulk messages, check delivery status, read received
+    SMS, manage linked phones and webhooks, and verify signed webhook deliveries.
+    A 'Tekservix' account with 'SMS Gora' and an API key are required.
+License: MIT + file LICENSE
+URL: https://tekservix.com/smsgora/docs/, https://github.com/TekservixHQ/smsgora-r
+BugReports: https://github.com/TekservixHQ/smsgora-r/issues
+Depends: R (>= 4.1.0)
+Imports: httr2 (>= 1.0.0), jsonlite, openssl
+Suggests: testthat (>= 3.0.0)
+Config/testthat/edition: 3
+Encoding: UTF-8
+Language: en-US
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
