@@ -25,7 +25,7 @@
 #' client <- smsgora_client("sgk_your_key")
 smsgora_client <- function(key = Sys.getenv("SMSGORA_API_KEY"),
                            base_url = "https://tekservix.com/smsgora/api/v1") {
-  if (!is.character(key) || length(key) != 1L || !nzchar(key)) {
+  if (!is.character(key) || length(key) != 1L || is.na(key) || !nzchar(key)) {
     stop("An SMS Gora API key is required (SMS Gora -> API keys in your Tekservix account).",
          call. = FALSE)
   }
